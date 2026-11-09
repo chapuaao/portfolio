@@ -20,10 +20,10 @@ I hold a **degree in Informatics, specializing in Computer Science (2018)**, and
 | Project | Focus |
 | --- | --- |
 | **[Poligest](PROJETOS.md#1-poligest)** | Full Stack academic, administrative and financial management platform for educational institutions |
-| **[Field Tax Collection System](PROJETOS.md#2-sistema-de-arrecadacao-de-receitas-fiscais)** | Native Android collection app, Java/Play Framework API, web dashboard and on-site receipt printing |
+| **[Field Tax Collection System](PROJETOS.md#2-sistema-de-arrecadação-de-receitas-fiscais)** | Native Android collection app, Java/Play Framework API, web dashboard and on-site receipt printing |
 | **[Road Hazard Alerts](PROJETOS.md#3-alertas-nas-estradas)** | Mobile app, PHP API, web dashboard, geolocation and road hazard notifications |
 | **[Qual Pacote](PROJETOS.md#4-qual-pacote)** | Web application comparing telecom plans in Angola |
-| **[Super SMS Sender / MCP Integration](PROJETOS.md#5-super-sms-sender-e-integracao-mcp)** | Flutter Android app integrated with a PHP service, MCP tools and ChatGPT for SMS dispatch |
+| **[Super SMS Sender / MCP Integration](PROJETOS.md#5-super-sms-sender-e-integração-mcp)** | Flutter Android app integrated with a PHP service, MCP tools and ChatGPT for SMS dispatch |
 | **[Kamba X / CambaX](PROJETOS.md#6-kamba-x--cambax)** | Native Android encryption project, awarded third place at an innovation competition in Benguela (2014) |
 
 ### Innovation and academic recognition
