@@ -102,23 +102,6 @@ Projecto de segurança e encriptação desenvolvido em **Android nativo, com And
 
 *Grafia: “Kamba X” é a designação usada na descrição histórica do projecto; “CambaX” consta do currículo. Não é publicado código-fonte histórico.*
 
-## Outros projectos públicos
-
-### Académico — Matrículas 2022
-Exercício de **programação orientada a objectos** sobre registo de turmas, matrícula inicial e confirmação de matrícula, com interface de consola.
-
-**Código:** [chapuaao/academico-matriculas2022](https://github.com/chapuaao/academico-matriculas2022)
-
-### Registo de Donativos
-Projecto para gestão e acompanhamento de uma conta de donativos monetários.
-
-**Código:** [chapuaao/registo-de-donativos](https://github.com/chapuaao/registo-de-donativos)
-
-### Grandasom
-Projecto web ligado à área de produção cultural e criativa, em que também actuo profissionalmente.
-
-**Código:** [chapuaao/grandasom](https://github.com/chapuaao/grandasom)
-
 ---
 
 ## Padrões comuns no meu trabalho
