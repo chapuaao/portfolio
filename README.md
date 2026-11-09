@@ -22,12 +22,12 @@ Trabalho sobretudo com **Java, Play Framework, JavaScript, Vue.js, PHP, HTML/CSS
 | Projecto | O que demonstra | Tecnologias / âmbito |
 | --- | --- | --- |
 | **[Poligest](PROJETOS.md#1-poligest)** | Concepção e evolução de uma plataforma de gestão académica, administrativa e financeira; experiência do requisito à produção | Java, Play Framework, JavaScript/Vue.js, SQL, MySQL/MariaDB |
-| **[Sistema de Arrecadação de Receitas Fiscais](PROJETOS.md#2-sistema-de-arrecadacao-de-receitas-fiscais)** | Solução integrada para cobrança em mercados e praças, API, dashboard e emissão de recibos no local | Android nativo, Java, Play Framework, API, impressão móvel |
+| **[Sistema de Arrecadação de Receitas Fiscais](PROJETOS.md#2-sistema-de-arrecadação-de-receitas-fiscais)** | Solução integrada para cobrança em mercados e praças, API, dashboard e emissão de recibos no local | Android nativo, Java, Play Framework, API, impressão móvel |
 | **[Alertas nas Estradas](PROJETOS.md#3-alertas-nas-estradas)** | Aplicação móvel conectada a servidor/API, painel web, geolocalização e notificações de ocorrências rodoviárias | Android, PHP, API, dashboard, mapas/GPS |
 | **[Qual Pacote](PROJETOS.md#4-qual-pacote)** | Produto web que ajuda a comparar pacotes de telecomunicações disponíveis em Angola | PHP, JavaScript, interface web, processamento de dados |
-| **[Super SMS Sender e integração MCP](PROJETOS.md#5-super-sms-sender-e-integracao-mcp)** | Integração entre aplicação móvel, serviço de mensagens e ferramentas de IA; envio individual/em lote e consulta de estados | Flutter, Android, PHP, MCP, integrações de APIs |
+| **[Super SMS Sender e integração MCP](PROJETOS.md#5-super-sms-sender-e-integração-mcp)** | Integração entre aplicação móvel, serviço de mensagens e ferramentas de IA; envio individual/em lote e consulta de estados | Flutter, Android, PHP, MCP, integrações de APIs |
 | **[Kamba X / CambaX](PROJETOS.md#6-kamba-x--cambax)** | Projecto académico de encriptação móvel premiado em feira de inovação angolana | Android nativo / Android Studio · 2013–2014 |
-| **[Outros projectos](PROJETOS.md#outros-projectos-publicos)** | Experiências em aplicações académicas, sites e gestão de informação | Java, web, projectos variados |
+| **[Outros projectos](PROJETOS.md#outros-projectos-públicos)** | Experiências em aplicações académicas, sites e gestão de informação | Java, web, projectos variados |
 
 ### Destaque histórico — inovação em Android
 
