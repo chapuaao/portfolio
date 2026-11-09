@@ -27,7 +27,6 @@ Trabalho sobretudo com **Java, Play Framework, JavaScript, Vue.js, PHP, HTML/CSS
 | **[Qual Pacote](PROJETOS.md#4-qual-pacote)** | Produto web que ajuda a comparar pacotes de telecomunicações disponíveis em Angola | PHP, JavaScript, interface web, processamento de dados |
 | **[Super SMS Sender e integração MCP](PROJETOS.md#5-super-sms-sender-e-integração-mcp)** | Integração entre aplicação móvel, serviço de mensagens e ferramentas de IA; envio individual/em lote e consulta de estados | Flutter, Android, PHP, MCP, integrações de APIs |
 | **[Kamba X / CambaX](PROJETOS.md#6-kamba-x--cambax)** | Projecto académico de encriptação móvel premiado em feira de inovação angolana | Android nativo / Android Studio · 2013–2014 |
-| **[Outros projectos](PROJETOS.md#outros-projectos-públicos)** | Experiências em aplicações académicas, sites e gestão de informação | Java, web, projectos variados |
 
 ### Destaque histórico — inovação em Android
 
@@ -64,13 +63,6 @@ Ver a [matriz de competências](COMPETENCIAS.md).
 - Experiência como **docente universitário** em programação web, fundamentos de programação, redes e informática.
 
 A trajectória, os cargos anteriores, as distinções académicas e a experiência formativa estão em **[Sobre mim](SOBRE.md)**.
-
-## Repositórios públicos complementares
-
-- [Qual Pacote](https://github.com/chapuaao/qualpacote) — produto web de comparação de pacotes.
-- [Académico — Matrículas 2022](https://github.com/chapuaao/academico-matriculas2022) — exercício de programação orientada a objectos.
-- [Registo de Donativos](https://github.com/chapuaao/registo-de-donativos) — gestão de registos de donativos monetários.
-- [Grandasom](https://github.com/chapuaao/grandasom) — projecto web ligado à produção criativa.
 
 ## Contacto profissional
 
